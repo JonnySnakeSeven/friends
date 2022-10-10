@@ -1,10 +1,18 @@
 {
-  "name": "Friends from the city",
-  "short_name": "Friends",
-  "theme_color": "#f3bb44",
-  "background_color": "#f3bb44",
-  "display": "browser",
-  "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/"
+    "name": "Friends From The City",
+    "lang": "en-us",
+    "short_name": "Friends",
+    "description": "Digital Agency",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#f3bb44",
+    "background_color": "#ffffff",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://uploads-ssl.webflow.com/631ce3f4d44a43559c8d64cd/6344063996e10dc4f5519268_FavIcon.png",
+            "sizes": "512x512"
+        }
+    ]
 }
