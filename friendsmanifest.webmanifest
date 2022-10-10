@@ -5,7 +5,7 @@
    "lang": "en",
    "icons": [{"src": "https://uploads-ssl.webflow.com/631ce3f4d44a43559c8d64cd/634409248dd6291ecd4bfeda_FavIcon-Full.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}],
     "display": "browser",
-    "scope": "/"
+    "scope": "/",
     "orientation": "natural",
     "background_color": "#f3bb44",
     "theme_color": "#f3bb44",
