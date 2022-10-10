@@ -4,7 +4,7 @@
     "short_name": "Friends",
     "description": "Digital Agency",
     "start_url": "https://friends-from-the-city-website.webflow.io/",
-    "scope": "/",
+    "scope": "https://friends-from-the-city-website.webflow.io/",
     "display": "standalone",
     "theme_color": "#f3bb44",
     "background_color": "#ffffff",
