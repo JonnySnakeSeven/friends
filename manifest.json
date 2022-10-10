@@ -1,0 +1,10 @@
+{
+  "name": "Friends from the city",
+  "short_name": "Friends",
+  "theme_color": "#f3bb44",
+  "background_color": "#f3bb44",
+  "display": "browser",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
