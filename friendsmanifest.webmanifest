@@ -12,7 +12,7 @@
     }
   ],
   "display": "browser",
-  "scope": "/case-studies/",
+  "scope": "https://friends-from-the-city-website.webflow.io/case-studies/",
   "orientation": "natural",
   "background_color": "#f3bb44",
   "theme_color": "#f3bb44",
