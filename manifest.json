@@ -3,7 +3,7 @@
     "lang": "en-us",
     "short_name": "Friends",
     "description": "Digital Agency",
-    "start_url": "/",
+    "start_url": "https://friends-from-the-city-website.webflow.io/",
     "scope": "/",
     "display": "standalone",
     "theme_color": "#f3bb44",
