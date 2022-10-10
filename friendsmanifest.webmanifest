@@ -7,8 +7,8 @@
     "display": "browser",
     "scope": "/"
     "orientation": "natural",
-    "background_color": "#f3bb44"
-    "theme_color": "#f3bb44"
-    "start_url": "/"
-    "categories": "business"
+    "background_color": "#f3bb44",
+    "theme_color": "#f3bb44",
+    "start_url": "/",
+    "categories": "business",
 }
